@@ -16,3 +16,8 @@ $ ls
 exampleEagleGerber.zip	processedBom.xlsx	processedCpl.xlsx
 ```
 
+I am also using the 2 layer cam file from here:
+
+> https://github.com/JLCPCB/jlcpcb-eagle/blob/master/cam/jlcpcb_2_layer_v9.cam
+
+with a slight modification to add the BOM and CPL csv outputs to the zip.
